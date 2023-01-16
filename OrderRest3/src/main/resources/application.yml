@@ -1,0 +1,11 @@
+spring:
+  datasource.url: jdbc:postgresql://localhost:5432/flutterfinal
+  datasource.username: postgres
+  datasource.password: parola123
+  jpa:
+    hibernate:
+      ddl-auto: update
+#logging:
+#  level:
+#    root: DEBUG
+
